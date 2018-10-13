@@ -1,0 +1,12 @@
+admin
+administrator
+account
+finance
+test
+guest
+root
+backup
+ftp
+msf
+msfadmin
+
